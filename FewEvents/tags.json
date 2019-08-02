@@ -1,0 +1,1504 @@
+{
+  "tags": [
+    {
+      "_id": 2,
+      "name": "На воздухе",
+      "sysName": "na-vozduhe"
+    },
+    {
+      "_id": 7,
+      "name": "Пародия",
+      "sysName": "parodiya"
+    },
+    {
+      "_id": 9,
+      "name": "Трагикомедия",
+      "sysName": "tragikomediya"
+    },
+    {
+      "_id": 10,
+      "name": "Фарс",
+      "sysName": "fars"
+    },
+    {
+      "_id": 21,
+      "name": "Выставочные залы",
+      "sysName": "vystavochnye-zaly"
+    },
+    {
+      "_id": 22,
+      "name": "Естественные науки",
+      "sysName": "estestvennye-nauki"
+    },
+    {
+      "_id": 23,
+      "name": "Наука и техника",
+      "sysName": "nauka-i-tehnika"
+    },
+    {
+      "_id": 24,
+      "name": "История",
+      "sysName": "istoriya"
+    },
+    {
+      "_id": 25,
+      "name": "Классическое искусство",
+      "sysName": "klassicheskoe-iskusstvo"
+    },
+    {
+      "_id": 26,
+      "name": "Современное искусство",
+      "sysName": "sovremennoe-iskusstvo"
+    },
+    {
+      "_id": 27,
+      "name": "Декоративно-прикладное искусство",
+      "sysName": "dekorativno-prikladnoe-iskusstvo"
+    },
+    {
+      "_id": 28,
+      "name": "Литература",
+      "sysName": "literatura"
+    },
+    {
+      "_id": 29,
+      "name": "Музыка",
+      "sysName": "muzyka"
+    },
+    {
+      "_id": 30,
+      "name": "Опера",
+      "sysName": "opera"
+    },
+    {
+      "_id": 31,
+      "name": "Балет",
+      "sysName": "balet"
+    },
+    {
+      "_id": 39,
+      "name": "Для детей",
+      "sysName": "dlya-detey"
+    },
+    {
+      "_id": 42,
+      "name": "Культурные центры",
+      "sysName": "kulturnye-centry"
+    },
+    {
+      "_id": 48,
+      "name": "Дизайн",
+      "sysName": "dizayn"
+    },
+    {
+      "_id": 50,
+      "name": "Фотография",
+      "sysName": "fotografiya"
+    },
+    {
+      "_id": 53,
+      "name": "Консерватории",
+      "sysName": "konservatorii"
+    },
+    {
+      "_id": 59,
+      "name": "Ансамбли",
+      "sysName": "ansambli"
+    },
+    {
+      "_id": 60,
+      "name": "Скверы",
+      "sysName": "skvery"
+    },
+    {
+      "_id": 61,
+      "name": "Сады",
+      "sysName": "sady"
+    },
+    {
+      "_id": 67,
+      "name": "Памятные места",
+      "sysName": "pamyatnye-mesta"
+    },
+    {
+      "_id": 69,
+      "name": "Открытые площадки",
+      "sysName": "otkrytye-ploshchadki"
+    },
+    {
+      "_id": 71,
+      "name": "Зоопарк",
+      "sysName": "zoopark"
+    },
+    {
+      "_id": 78,
+      "name": "Архитектура",
+      "sysName": "arhitektura"
+    },
+    {
+      "_id": 80,
+      "name": "Животные",
+      "sysName": "zhivotnye"
+    },
+    {
+      "_id": 86,
+      "name": "Мода",
+      "sysName": "moda"
+    },
+    {
+      "_id": 87,
+      "name": "Наука",
+      "sysName": "nauka"
+    },
+    {
+      "_id": 88,
+      "name": "Новые технологии",
+      "sysName": "novye-tehnologii"
+    },
+    {
+      "_id": 91,
+      "name": "Скульптура",
+      "sysName": "skulptura"
+    },
+    {
+      "_id": 93,
+      "name": "Страны, путешествия",
+      "sysName": "strany-puteshestviya"
+    },
+    {
+      "_id": 96,
+      "name": "Перформанс",
+      "sysName": "performans"
+    },
+    {
+      "_id": 97,
+      "name": "Экспериментальный театр",
+      "sysName": "eksperimentalnyy-teatr"
+    },
+    {
+      "_id": 98,
+      "name": "Уличные спектакли",
+      "sysName": "ulichnye-spektakli"
+    },
+    {
+      "_id": 100,
+      "name": "Бардовская песня",
+      "sysName": "bardovskaya-pesnya"
+    },
+    {
+      "_id": 101,
+      "name": "Блюз",
+      "sysName": "blyuz"
+    },
+    {
+      "_id": 102,
+      "name": "Лекции",
+      "sysName": "lekcii"
+    },
+    {
+      "_id": 103,
+      "name": "Экскурсии",
+      "sysName": "ekskursii"
+    },
+    {
+      "_id": 105,
+      "name": "Камерный концерт",
+      "sysName": "kamernyy-koncert"
+    },
+    {
+      "_id": 108,
+      "name": "Поп-музыка",
+      "sysName": "pop-muzyka"
+    },
+    {
+      "_id": 109,
+      "name": "Рок",
+      "sysName": "rok"
+    },
+    {
+      "_id": 110,
+      "name": "Рок-н-ролл",
+      "sysName": "rok-n-roll"
+    },
+    {
+      "_id": 111,
+      "name": "Романсы",
+      "sysName": "romansy"
+    },
+    {
+      "_id": 114,
+      "name": "Фанк",
+      "sysName": "fank"
+    },
+    {
+      "_id": 115,
+      "name": "Фолк",
+      "sysName": "folk"
+    },
+    {
+      "_id": 118,
+      "name": "Мастер-классы",
+      "sysName": "master-klassy"
+    },
+    {
+      "_id": 119,
+      "name": "Медиа",
+      "sysName": "media"
+    },
+    {
+      "_id": 120,
+      "name": "Общество",
+      "sysName": "obshchestvo"
+    },
+    {
+      "_id": 122,
+      "name": "Искусство",
+      "sysName": "iskusstvo"
+    },
+    {
+      "_id": 124,
+      "name": "Анимация",
+      "sysName": "animaciya"
+    },
+    {
+      "_id": 125,
+      "name": "Биография",
+      "sysName": "biografiya"
+    },
+    {
+      "_id": 128,
+      "name": "Детектив",
+      "sysName": "detektiv"
+    },
+    {
+      "_id": 131,
+      "name": "Приключения",
+      "sysName": "priklyucheniya"
+    },
+    {
+      "_id": 132,
+      "name": "Фантастика",
+      "sysName": "fantastika"
+    },
+    {
+      "_id": 134,
+      "name": "Фэнтези",
+      "sysName": "fentezi"
+    },
+    {
+      "_id": 138,
+      "name": "Парады",
+      "sysName": "parady"
+    },
+    {
+      "_id": 139,
+      "name": "Реконструкция",
+      "sysName": "rekonstrukciya"
+    },
+    {
+      "_id": 141,
+      "name": "Премьера",
+      "sysName": "premera"
+    },
+    {
+      "_id": 143,
+      "name": "Игры",
+      "sysName": "igry"
+    },
+    {
+      "_id": 144,
+      "name": "Реставрация",
+      "sysName": "restavraciya"
+    },
+    {
+      "_id": 146,
+      "name": "Археология",
+      "sysName": "arheologiya"
+    },
+    {
+      "_id": 147,
+      "name": "Керамика",
+      "sysName": "keramika"
+    },
+    {
+      "_id": 148,
+      "name": "Вечер",
+      "sysName": "vecher"
+    },
+    {
+      "_id": 150,
+      "name": "Уроки",
+      "sysName": "uroki"
+    },
+    {
+      "_id": 151,
+      "name": "Мемориал",
+      "sysName": "memorial"
+    },
+    {
+      "_id": 152,
+      "name": "Этнография",
+      "sysName": "etnografiya"
+    },
+    {
+      "_id": 153,
+      "name": "Конкурс",
+      "sysName": "konkurs"
+    },
+    {
+      "_id": 154,
+      "name": "Услуги",
+      "sysName": "uslugi"
+    },
+    {
+      "_id": 155,
+      "name": "Джаз",
+      "sysName": "dzhaz"
+    },
+    {
+      "_id": 156,
+      "name": "Шоу",
+      "sysName": "shou"
+    },
+    {
+      "_id": 157,
+      "name": "Органная музыка",
+      "sysName": "organnaya-muzyka"
+    },
+    {
+      "_id": 158,
+      "name": "Классическая музыка",
+      "sysName": "klassicheskaya-muzyka"
+    },
+    {
+      "_id": 160,
+      "name": "Графика",
+      "sysName": "grafika"
+    },
+    {
+      "_id": 161,
+      "name": "Мультипликация",
+      "sysName": "multiplikaciya"
+    },
+    {
+      "_id": 163,
+      "name": "Живопись",
+      "sysName": "zhivopis"
+    },
+    {
+      "_id": 164,
+      "name": "Кинопоказ",
+      "sysName": "kinopokaz"
+    },
+    {
+      "_id": 165,
+      "name": "Повышение квалификации",
+      "sysName": "povyshenie-kvalifikacii"
+    },
+    {
+      "_id": 166,
+      "name": "Ночь музеев",
+      "sysName": "noch-muzeev"
+    },
+    {
+      "_id": 167,
+      "name": "Представление",
+      "sysName": "predstavlenie"
+    },
+    {
+      "_id": 170,
+      "name": "Коллекции",
+      "sysName": "kollekcii"
+    },
+    {
+      "_id": 171,
+      "name": "Игрушки",
+      "sysName": "igrushki"
+    },
+    {
+      "_id": 174,
+      "name": "Усадьба",
+      "sysName": "usadba"
+    },
+    {
+      "_id": 175,
+      "name": "Год литературы",
+      "sysName": "god-literatury"
+    },
+    {
+      "_id": 176,
+      "name": "70 лет Победы",
+      "sysName": "70-let-pobedy"
+    },
+    {
+      "_id": 177,
+      "name": "Танцы",
+      "sysName": "tancy"
+    },
+    {
+      "_id": 178,
+      "name": "Бесплатно",
+      "sysName": "besplatno"
+    },
+    {
+      "_id": 179,
+      "name": "Эстрада",
+      "sysName": "estrada"
+    },
+    {
+      "_id": 180,
+      "name": "Презентация",
+      "sysName": "prezentaciya"
+    },
+    {
+      "_id": 181,
+      "name": "Авторская песня",
+      "sysName": "avtorskaya-pesnya"
+    },
+    {
+      "_id": 182,
+      "name": "Точные науки",
+      "sysName": "tochnye-nauki"
+    },
+    {
+      "_id": 183,
+      "name": "Кинематограф",
+      "sysName": "kinematograf"
+    },
+    {
+      "_id": 184,
+      "name": "Кукольный спектакль",
+      "sysName": "kukolnyy-spektakl"
+    },
+    {
+      "_id": 185,
+      "name": "Курс",
+      "sysName": "kurs"
+    },
+    {
+      "_id": 186,
+      "name": "Языковой клуб",
+      "sysName": "yazykovoy-klub"
+    },
+    {
+      "_id": 188,
+      "name": "Гуманитарные науки",
+      "sysName": "gumanitarnye-nauki"
+    },
+    {
+      "_id": 191,
+      "name": "Творчество",
+      "sysName": "tvorchestvo"
+    },
+    {
+      "_id": 192,
+      "name": "Конференция",
+      "sysName": "konferenciya"
+    },
+    {
+      "_id": 193,
+      "name": "Мюзикл",
+      "sysName": "myuzikl"
+    },
+    {
+      "_id": 194,
+      "name": "Дополнительное образование",
+      "sysName": "dopolnitelnoe-obrazovanie"
+    },
+    {
+      "_id": 196,
+      "name": "Инновации",
+      "sysName": "innovacii"
+    },
+    {
+      "_id": 204,
+      "name": "Дом-музей",
+      "sysName": "dom-muzey"
+    },
+    {
+      "_id": 205,
+      "name": "Пластический спектакль",
+      "sysName": "plasticheskiy-spektakl"
+    },
+    {
+      "_id": 206,
+      "name": "Народное творчество",
+      "sysName": "narodnoe-tvorchestvo"
+    },
+    {
+      "_id": 208,
+      "name": "Фольклор",
+      "sysName": "folklor"
+    },
+    {
+      "_id": 213,
+      "name": "Любительское кино",
+      "sysName": "lyubitelskoe-kino"
+    },
+    {
+      "_id": 214,
+      "name": "Любительские театры",
+      "sysName": "lyubitelskie-teatry"
+    },
+    {
+      "_id": 217,
+      "name": "Квест",
+      "sysName": "kvest"
+    },
+    {
+      "_id": 218,
+      "name": "Флешмоб",
+      "sysName": "fleshmob"
+    },
+    {
+      "_id": 220,
+      "name": "Библионочь",
+      "sysName": "biblionoch"
+    },
+    {
+      "_id": 223,
+      "name": "Семейное чтение",
+      "sysName": "semeynoe-chtenie"
+    },
+    {
+      "_id": 229,
+      "name": "Методическая работа",
+      "sysName": "metodicheskaya-rabota"
+    },
+    {
+      "_id": 230,
+      "name": "Библиотека-музей",
+      "sysName": "biblioteka-muzey"
+    },
+    {
+      "_id": 231,
+      "name": "Встречи с писателями",
+      "sysName": "vstrechi-s-pisatelyami"
+    },
+    {
+      "_id": 233,
+      "name": "Буккроссинг",
+      "sysName": "bukkrossing"
+    },
+    {
+      "_id": 242,
+      "name": "Онлайн-трансляции",
+      "sysName": "onlayn-translyacii"
+    },
+    {
+      "_id": 243,
+      "name": "Среднее специальное образование",
+      "sysName": "srednee-specialnoe-obrazovanie"
+    },
+    {
+      "_id": 245,
+      "name": "Благотворительность",
+      "sysName": "blagotvoritelnost"
+    },
+    {
+      "_id": 246,
+      "name": "Творческий вечер",
+      "sysName": "tvorcheskiy-vecher"
+    },
+    {
+      "_id": 247,
+      "name": "Тренинг",
+      "sysName": "trening"
+    },
+    {
+      "_id": 248,
+      "name": "Вечеринка",
+      "sysName": "vecherinka"
+    },
+    {
+      "_id": 249,
+      "name": "Русское искусство",
+      "sysName": "russkoe-iskusstvo"
+    },
+    {
+      "_id": 251,
+      "name": "Оперетта",
+      "sysName": "operetta"
+    },
+    {
+      "_id": 252,
+      "name": "День города",
+      "sysName": "den-goroda"
+    },
+    {
+      "_id": 254,
+      "name": "Изобразительное искусство",
+      "sysName": "izobrazitelnoe-iskusstvo"
+    },
+    {
+      "_id": 256,
+      "name": "Инсталляция",
+      "sysName": "installyaciya"
+    },
+    {
+      "_id": 259,
+      "name": "Художественные школы",
+      "sysName": "hudozhestvennye-shkoly"
+    },
+    {
+      "_id": 260,
+      "name": "Моноспектакль",
+      "sysName": "monospektakl"
+    },
+    {
+      "_id": 266,
+      "name": "Комедия",
+      "sysName": "komediya"
+    },
+    {
+      "_id": 267,
+      "name": "Драма",
+      "sysName": "drama"
+    },
+    {
+      "_id": 268,
+      "name": "Цирковое представление",
+      "sysName": "cirkovoe-predstavlenie"
+    },
+    {
+      "_id": 269,
+      "name": "Шансон",
+      "sysName": "shanson"
+    },
+    {
+      "_id": 270,
+      "name": "Здоровье",
+      "sysName": "zdorove"
+    },
+    {
+      "_id": 271,
+      "name": "Ярмарка",
+      "sysName": "yarmarka"
+    },
+    {
+      "_id": 272,
+      "name": "Соревнования",
+      "sysName": "sorevnovaniya"
+    },
+    {
+      "_id": 273,
+      "name": "Отдых и развлечения",
+      "sysName": "otdyh-i-razvlecheniya"
+    },
+    {
+      "_id": 277,
+      "name": "Акция",
+      "sysName": "akciya"
+    },
+    {
+      "_id": 279,
+      "name": "Беседа",
+      "sysName": "beseda"
+    },
+    {
+      "_id": 281,
+      "name": "Литературный вечер",
+      "sysName": "literaturnyy-vecher"
+    },
+    {
+      "_id": 282,
+      "name": "Видеолекторий",
+      "sysName": "videolektoriy"
+    },
+    {
+      "_id": 283,
+      "name": "Вахта памяти",
+      "sysName": "vahta-pamyati"
+    },
+    {
+      "_id": 284,
+      "name": "Викторина",
+      "sysName": "viktorina"
+    },
+    {
+      "_id": 285,
+      "name": "Гостиная",
+      "sysName": "gostinaya"
+    },
+    {
+      "_id": 286,
+      "name": "День воинской славы",
+      "sysName": "den-voinskoy-slavy"
+    },
+    {
+      "_id": 287,
+      "name": "День памяти",
+      "sysName": "den-pamyati"
+    },
+    {
+      "_id": 289,
+      "name": "Диалог",
+      "sysName": "dialog"
+    },
+    {
+      "_id": 290,
+      "name": "Дискуссия",
+      "sysName": "diskussiya"
+    },
+    {
+      "_id": 292,
+      "name": "Клуб по интересам",
+      "sysName": "klub-po-interesam"
+    },
+    {
+      "_id": 294,
+      "name": "Круглый стол",
+      "sysName": "kruglyy-stol"
+    },
+    {
+      "_id": 305,
+      "name": "Поэтическая композиция",
+      "sysName": "poeticheskaya-kompoziciya"
+    },
+    {
+      "_id": 308,
+      "name": "Проект",
+      "sysName": "proekt"
+    },
+    {
+      "_id": 317,
+      "name": "Для молодежи",
+      "sysName": "dlya-molodezhi"
+    },
+    {
+      "_id": 318,
+      "name": "Музей-квартира",
+      "sysName": "muzey-kvartira"
+    },
+    {
+      "_id": 320,
+      "name": "Ночь искусств",
+      "sysName": "noch-iskusstv"
+    },
+    {
+      "_id": 321,
+      "name": "Традиции",
+      "sysName": "tradicii"
+    },
+    {
+      "_id": 322,
+      "name": "Хор",
+      "sysName": "hor"
+    },
+    {
+      "_id": 323,
+      "name": "Исполнительское искусство",
+      "sysName": "ispolnitelskoe-iskusstvo"
+    },
+    {
+      "_id": 324,
+      "name": "Традиционное искусство",
+      "sysName": "tradicionnoe-iskusstvo"
+    },
+    {
+      "_id": 325,
+      "name": "Творческий коллектив",
+      "sysName": "tvorcheskiy-kollektiv"
+    },
+    {
+      "_id": 326,
+      "name": "Праздничное агентство",
+      "sysName": "prazdnichnoe-agentstvo"
+    },
+    {
+      "_id": 327,
+      "name": "Концертные и театральные агентства",
+      "sysName": "koncertnye-i-teatralnye-agentstva"
+    },
+    {
+      "_id": 328,
+      "name": "Кинопрокатная компания",
+      "sysName": "kinoprokatnaya-kompaniya"
+    },
+    {
+      "_id": 329,
+      "name": "Ремесла и художественные промыслы",
+      "sysName": "remesla-i-hudozhestvennye-promysly"
+    },
+    {
+      "_id": 330,
+      "name": "Планетарий",
+      "sysName": "planetariy"
+    },
+    {
+      "_id": 331,
+      "name": "Общественная организация",
+      "sysName": "obshchestvennaya-organizaciya"
+    },
+    {
+      "_id": 333,
+      "name": "Органы государственного надзора",
+      "sysName": "organy-gosudarstvennogo-nadzora"
+    },
+    {
+      "_id": 334,
+      "name": "Оркестр",
+      "sysName": "orkestr"
+    },
+    {
+      "_id": 335,
+      "name": "Туристический инфоцентр",
+      "sysName": "turisticheskiy-infocentr"
+    },
+    {
+      "_id": 336,
+      "name": "Автоклуб",
+      "sysName": "avtoklub"
+    },
+    {
+      "_id": 337,
+      "name": "Архив",
+      "sysName": "arhiv"
+    },
+    {
+      "_id": 338,
+      "name": "Реставрационная мастерская",
+      "sysName": "restavracionnaya-masterskaya"
+    },
+    {
+      "_id": 339,
+      "name": "Заповедник",
+      "sysName": "zapovednik"
+    },
+    {
+      "_id": 340,
+      "name": "Киностудия",
+      "sysName": "kinostudiya"
+    },
+    {
+      "_id": 341,
+      "name": "Юмор",
+      "sysName": "yumor"
+    },
+    {
+      "_id": 342,
+      "name": "Сказка",
+      "sysName": "skazka"
+    },
+    {
+      "_id": 346,
+      "name": "День России",
+      "sysName": "den-rossii"
+    },
+    {
+      "_id": 347,
+      "name": "Чтения",
+      "sysName": "chteniya"
+    },
+    {
+      "_id": 348,
+      "name": "Новый год",
+      "sysName": "novyy-god"
+    },
+    {
+      "_id": 350,
+      "name": "Народная культура",
+      "sysName": "narodnaya-kultura"
+    },
+    {
+      "_id": 358,
+      "name": "Право",
+      "sysName": "pravo"
+    },
+    {
+      "_id": 391,
+      "name": "Кинофонд",
+      "sysName": "kinofond"
+    },
+    {
+      "_id": 392,
+      "name": "Книги",
+      "sysName": "knigi"
+    },
+    {
+      "_id": 393,
+      "name": "Просвещение",
+      "sysName": "prosveshchenie"
+    },
+    {
+      "_id": 394,
+      "name": "Поэзия",
+      "sysName": "poeziya"
+    },
+    {
+      "_id": 395,
+      "name": "Духовная музыка",
+      "sysName": "duhovnaya-muzyka"
+    },
+    {
+      "_id": 397,
+      "name": "Музеи-храмы",
+      "sysName": "muzei-hramy"
+    },
+    {
+      "_id": 398,
+      "name": "Дворцово-парковый ансамбль",
+      "sysName": "dvorcovo-parkovyy-ansambl"
+    },
+    {
+      "_id": 406,
+      "name": "Краеведение",
+      "sysName": "kraevedenie"
+    },
+    {
+      "_id": 407,
+      "name": "Ботанические сады",
+      "sysName": "botanicheskie-sady"
+    },
+    {
+      "_id": 411,
+      "name": "Авиация",
+      "sysName": "aviaciya"
+    },
+    {
+      "_id": 414,
+      "name": "Биология",
+      "sysName": "biologiya"
+    },
+    {
+      "_id": 415,
+      "name": "Геология",
+      "sysName": "geologiya"
+    },
+    {
+      "_id": 416,
+      "name": "Медицина",
+      "sysName": "medicina"
+    },
+    {
+      "_id": 417,
+      "name": "Палеонтология",
+      "sysName": "paleontologiya"
+    },
+    {
+      "_id": 427,
+      "name": "Музыкальная комедия",
+      "sysName": "muzykalnaya-komediya"
+    },
+    {
+      "_id": 429,
+      "name": "Театр кукол",
+      "sysName": "teatr-kukol"
+    },
+    {
+      "_id": 430,
+      "name": "Год кино",
+      "sysName": "god-kino"
+    },
+    {
+      "_id": 431,
+      "name": "Масленица",
+      "sysName": "maslenica"
+    },
+    {
+      "_id": 433,
+      "name": "Труд",
+      "sysName": "trud"
+    },
+    {
+      "_id": 434,
+      "name": "Передвижная выставка",
+      "sysName": "peredvizhnaya-vystavka"
+    },
+    {
+      "_id": 435,
+      "name": "Театрализованное представление",
+      "sysName": "teatralizovannoe-predstavlenie"
+    },
+    {
+      "_id": 437,
+      "name": "День космонавтики",
+      "sysName": "den-kosmonavtiki"
+    },
+    {
+      "_id": 438,
+      "name": "Пасха",
+      "sysName": "pasha"
+    },
+    {
+      "_id": 439,
+      "name": "1 Мая",
+      "sysName": "1-maya"
+    },
+    {
+      "_id": 440,
+      "name": "День Победы",
+      "sysName": "den-pobedy"
+    },
+    {
+      "_id": 441,
+      "name": "Творческая лаборатория",
+      "sysName": "tvorcheskaya-laboratoriya"
+    },
+    {
+      "_id": 442,
+      "name": "Библиосумерки",
+      "sysName": "bibliosumerki"
+    },
+    {
+      "_id": 443,
+      "name": "Культурное наследие",
+      "sysName": "kulturnoe-nasledie"
+    },
+    {
+      "_id": 447,
+      "name": "Слепые",
+      "sysName": "slepye"
+    },
+    {
+      "_id": 448,
+      "name": "Слабовидящие",
+      "sysName": "slabovidyashchie"
+    },
+    {
+      "_id": 450,
+      "name": "Ночь истории",
+      "sysName": "noch-istorii"
+    },
+    {
+      "_id": 453,
+      "name": "Сергей Рахманинов",
+      "sysName": "sergey-rahmaninov"
+    },
+    {
+      "_id": 454,
+      "name": "Александр Пушкин",
+      "sysName": "aleksandr-pushkin"
+    },
+    {
+      "_id": 455,
+      "name": "Антон Чехов",
+      "sysName": "anton-chehov"
+    },
+    {
+      "_id": 456,
+      "name": "Василий Суриков",
+      "sysName": "vasiliy-surikov"
+    },
+    {
+      "_id": 457,
+      "name": "Николай Римский-Корсаков",
+      "sysName": "nikolay-rimskiy-korsakov"
+    },
+    {
+      "_id": 458,
+      "name": "Иван Шишкин",
+      "sysName": "ivan-shishkin"
+    },
+    {
+      "_id": 477,
+      "name": "Исаак Дунаевский",
+      "sysName": "isaak-dunaevskiy"
+    },
+    {
+      "_id": 479,
+      "name": "Петр Чайковский",
+      "sysName": "petr-chaykovskiy"
+    },
+    {
+      "_id": 481,
+      "name": "Николай Гоголь",
+      "sysName": "nikolay-gogol"
+    },
+    {
+      "_id": 488,
+      "name": "Борис Кустодиев",
+      "sysName": "boris-kustodiev"
+    },
+    {
+      "_id": 489,
+      "name": "Казимир Малевич",
+      "sysName": "kazimir-malevich"
+    },
+    {
+      "_id": 490,
+      "name": "Константин Станиславский",
+      "sysName": "konstantin-stanislavskiy"
+    },
+    {
+      "_id": 502,
+      "name": "Сергей Прокофьев",
+      "sysName": "sergey-prokofev"
+    },
+    {
+      "_id": 505,
+      "name": "Модест Мусоргский",
+      "sysName": "modest-musorgskiy"
+    },
+    {
+      "_id": 506,
+      "name": "Анна Ахматова",
+      "sysName": "anna-ahmatova"
+    },
+    {
+      "_id": 508,
+      "name": "Александр Грибоедов",
+      "sysName": "aleksandr-griboedov"
+    },
+    {
+      "_id": 510,
+      "name": "Александр Невский",
+      "sysName": "aleksandr-nevskiy"
+    },
+    {
+      "_id": 521,
+      "name": "Мстислав Ростропович",
+      "sysName": "mstislav-rostropovich"
+    },
+    {
+      "_id": 523,
+      "name": "Лев Толстой",
+      "sysName": "lev-tolstoy"
+    },
+    {
+      "_id": 528,
+      "name": "Федор Ушаков",
+      "sysName": "fedor-ushakov"
+    },
+    {
+      "_id": 533,
+      "name": "Федор Тютчев",
+      "sysName": "fedor-tyutchev"
+    },
+    {
+      "_id": 534,
+      "name": "Михаил Булгаков",
+      "sysName": "mihail-bulgakov"
+    },
+    {
+      "_id": 538,
+      "name": "Александр Скрябин",
+      "sysName": "aleksandr-skryabin"
+    },
+    {
+      "_id": 540,
+      "name": "Иван Айвазовский",
+      "sysName": "ivan-ayvazovskiy"
+    },
+    {
+      "_id": 542,
+      "name": "Михаил Глинка",
+      "sysName": "mihail-glinka"
+    },
+    {
+      "_id": 543,
+      "name": "Федор Достоевский",
+      "sysName": "fedor-dostoevskiy"
+    },
+    {
+      "_id": 545,
+      "name": "Иван Тургенев",
+      "sysName": "ivan-turgenev"
+    },
+    {
+      "_id": 547,
+      "name": "Александр Блок",
+      "sysName": "aleksandr-blok"
+    },
+    {
+      "_id": 552,
+      "name": "Николай Некрасов",
+      "sysName": "nikolay-nekrasov"
+    },
+    {
+      "_id": 554,
+      "name": "Сергей Есенин",
+      "sysName": "sergey-esenin"
+    },
+    {
+      "_id": 555,
+      "name": "Илья Репин",
+      "sysName": "ilya-repin"
+    },
+    {
+      "_id": 557,
+      "name": "Василий Шукшин",
+      "sysName": "vasiliy-shukshin"
+    },
+    {
+      "_id": 559,
+      "name": "Виктор Васнецов",
+      "sysName": "viktor-vasnecov"
+    },
+    {
+      "_id": 560,
+      "name": "Михаил Лермонтов",
+      "sysName": "mihail-lermontov"
+    },
+    {
+      "_id": 561,
+      "name": "Сергей Михалков",
+      "sysName": "sergey-mihalkov"
+    },
+    {
+      "_id": 563,
+      "name": "Владимир Маяковский",
+      "sysName": "vladimir-mayakovskiy"
+    },
+    {
+      "_id": 564,
+      "name": "Сергей Довлатов",
+      "sysName": "sergey-dovlatov"
+    },
+    {
+      "_id": 565,
+      "name": "Александр Бородин",
+      "sysName": "aleksandr-borodin"
+    },
+    {
+      "_id": 567,
+      "name": "Дмитрий Шостакович",
+      "sysName": "dmitriy-shostakovich"
+    },
+    {
+      "_id": 568,
+      "name": "Александр Суворов",
+      "sysName": "aleksandr-suvorov"
+    },
+    {
+      "_id": 574,
+      "name": "Иосиф Хейфиц",
+      "sysName": "iosif-heyfic"
+    },
+    {
+      "_id": 575,
+      "name": "Игорь Стравинский",
+      "sysName": "igor-stravinskiy"
+    },
+    {
+      "_id": 576,
+      "name": "Марина Цветаева",
+      "sysName": "marina-cvetaeva"
+    },
+    {
+      "_id": 578,
+      "name": "Исаак Левитан",
+      "sysName": "isaak-levitan"
+    },
+    {
+      "_id": 583,
+      "name": "Иван Гончаров",
+      "sysName": "ivan-goncharov"
+    },
+    {
+      "_id": 586,
+      "name": "Николай Рерих",
+      "sysName": "nikolay-rerih"
+    },
+    {
+      "_id": 589,
+      "name": "Александр Островский",
+      "sysName": "aleksandr-ostrovskiy"
+    },
+    {
+      "_id": 590,
+      "name": "Ночь кино",
+      "sysName": "noch-kino"
+    },
+    {
+      "_id": 591,
+      "name": "Литературная ночь",
+      "sysName": "literaturnaya-noch"
+    },
+    {
+      "_id": 592,
+      "name": "Святитель Иннокентий",
+      "sysName": "svyatitel-innokentiy"
+    },
+    {
+      "_id": 593,
+      "name": "Тысячелетие Суздаля",
+      "sysName": "tysyacheletie-suzdalya"
+    },
+    {
+      "_id": 594,
+      "name": "Колледж",
+      "sysName": "kolledzh"
+    },
+    {
+      "_id": 595,
+      "name": "Космонавтика",
+      "sysName": "kosmonavtika"
+    },
+    {
+      "_id": 596,
+      "name": "Доступная среда",
+      "sysName": "dostupnaya-sreda"
+    },
+    {
+      "_id": 600,
+      "name": "День Государственного флага РФ",
+      "sysName": "den-gosudarstvennogo-flaga-rf"
+    },
+    {
+      "_id": 601,
+      "name": "Солженицын А. И.",
+      "sysName": "solzhenicyn-a-i"
+    },
+    {
+      "_id": 602,
+      "name": "Астрономия",
+      "sysName": "astronomiya"
+    },
+    {
+      "_id": 603,
+      "name": "Фестиваль",
+      "sysName": "festival"
+    },
+    {
+      "_id": 604,
+      "name": "День народного единства",
+      "sysName": "den-narodnogo-edinstva"
+    },
+    {
+      "_id": 606,
+      "name": "День матери",
+      "sysName": "den-materi"
+    },
+    {
+      "_id": 608,
+      "name": "Музеи Ямала",
+      "sysName": "muzei-yamala"
+    },
+    {
+      "_id": 609,
+      "name": "Гастроли",
+      "sysName": "gastroli"
+    },
+    {
+      "_id": 610,
+      "name": "Культурный форум",
+      "sysName": "kulturnyy-forum"
+    },
+    {
+      "_id": 611,
+      "name": "Рождество",
+      "sysName": "rozhdestvo"
+    },
+    {
+      "_id": 612,
+      "name": "Передвижная библиотека",
+      "sysName": "peredvizhnaya-biblioteka"
+    },
+    {
+      "_id": 613,
+      "name": "Год экологии",
+      "sysName": "god-ekologii"
+    },
+    {
+      "_id": 614,
+      "name": "День защитника Отечества",
+      "sysName": "den-zashchitnika-otechestva"
+    },
+    {
+      "_id": 615,
+      "name": "8 Марта",
+      "sysName": "8-marta"
+    },
+    {
+      "_id": 616,
+      "name": "Николай Рубцов",
+      "sysName": "nikolay-rubcov"
+    },
+    {
+      "_id": 617,
+      "name": "Безопасный интернет",
+      "sysName": "bezopasnyy-internet"
+    },
+    {
+      "_id": 618,
+      "name": "День открытых дверей",
+      "sysName": "den-otkrytyh-dverey"
+    },
+    {
+      "_id": 619,
+      "name": "Библиотеки Ямала",
+      "sysName": "biblioteki-yamala"
+    },
+    {
+      "_id": 621,
+      "name": "Валентин Берестов",
+      "sysName": "valentin-berestov"
+    },
+    {
+      "_id": 622,
+      "name": "Корней Чуковский",
+      "sysName": "korney-chukovskiy"
+    },
+    {
+      "_id": 623,
+      "name": "Валентин Распутин",
+      "sysName": "valentin-rasputin"
+    },
+    {
+      "_id": 624,
+      "name": "День театра",
+      "sysName": "den-teatra"
+    },
+    {
+      "_id": 625,
+      "name": "День работника культуры",
+      "sysName": "den-rabotnika-kultury"
+    },
+    {
+      "_id": 626,
+      "name": "Самуил Маршак",
+      "sysName": "samuil-marshak"
+    },
+    {
+      "_id": 627,
+      "name": "100-летие революции 1917 года",
+      "sysName": "100-letie-revolyucii-1917-goda"
+    },
+    {
+      "_id": 628,
+      "name": "Ночь в театре",
+      "sysName": "noch-v-teatre"
+    },
+    {
+      "_id": 651,
+      "name": "День библиотек",
+      "sysName": "den-bibliotek"
+    },
+    {
+      "_id": 652,
+      "name": "Константин Паустовский",
+      "sysName": "konstantin-paustovskiy"
+    },
+    {
+      "_id": 653,
+      "name": "Константин Бальмонт",
+      "sysName": "konstantin-balmont"
+    },
+    {
+      "_id": 654,
+      "name": "День семьи, любви и верности",
+      "sysName": "den-semi-lyubvi-i-vernosti"
+    },
+    {
+      "_id": 655,
+      "name": "День знаний",
+      "sysName": "den-znaniy"
+    },
+    {
+      "_id": 656,
+      "name": "Евгений Евтушенко",
+      "sysName": "evgeniy-evtushenko"
+    },
+    {
+      "_id": 657,
+      "name": "Юрий Гагарин",
+      "sysName": "yuriy-gagarin"
+    },
+    {
+      "_id": 659,
+      "name": "Валентин Катаев",
+      "sysName": "valentin-kataev"
+    }
+  ]
+}

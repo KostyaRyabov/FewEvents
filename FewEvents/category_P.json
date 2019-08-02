@@ -1,0 +1,64 @@
+{
+  "tags": [
+    {
+      "_id": 3,
+      "name": "Библиотеки",
+      "sysName": "biblioteki"
+    },
+    {
+      "_id": 18,
+      "name": "Дворцы культуры и клубы",
+      "sysName": "dvorcy-kultury-i-kluby"
+    },
+    {
+      "_id": 21,
+      "name": "Кинотеатры",
+      "sysName": "kinoteatry"
+    },
+    {
+      "_id": 19,
+      "name": "Концертные площадки",
+      "sysName": "koncertnye-ploshchadki"
+    },
+    {
+      "_id": 20,
+      "name": "Культурное наследие",
+      "sysName": "kulturnoe-nasledie"
+    },
+    {
+      "_id": 2,
+      "name": "Музеи и галереи",
+      "sysName": "muzei-i-galerei"
+    },
+    {
+      "_id": 22,
+      "name": "Образовательные учреждения",
+      "sysName": "obrazovatelnye-uchrezhdeniya"
+    },
+    {
+      "_id": 5,
+      "name": "Памятники",
+      "sysName": "pamyatniki"
+    },
+    {
+      "_id": 6,
+      "name": "Парки",
+      "sysName": "parki"
+    },
+    {
+      "_id": 1,
+      "name": "Театры",
+      "sysName": "teatry"
+    },
+    {
+      "_id": 29,
+      "name": "Цирки",
+      "sysName": "cirki"
+    },
+    {
+      "_id": 23,
+      "name": "Прочее",
+      "sysName": "prochee"
+    }
+  ]
+}

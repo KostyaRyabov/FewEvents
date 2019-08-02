@@ -1,0 +1,39 @@
+{
+  "tags": [
+    {
+      "_id": 25,
+      "name": "Встречи",
+      "sysName": "vstrechi"
+    },
+    {
+      "_id": 8,
+      "name": "Выставки",
+      "sysName": "vystavki"
+    },
+    {
+      "_id": 11,
+      "name": "Концерты",
+      "sysName": "koncerty"
+    },
+    {
+      "_id": 24,
+      "name": "Обучение",
+      "sysName": "obuchenie"
+    },
+    {
+      "_id": 7,
+      "name": "Спектакли",
+      "sysName": "spektakli"
+    },
+    {
+      "_id": 10,
+      "name": "Праздники",
+      "sysName": "prazdniki"
+    },
+    {
+      "_id": 9,
+      "name": "Прочие",
+      "sysName": "prochie"
+    }
+  ]
+}
